@@ -25,3 +25,7 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+.cards.first-section.block {
+  color: green;
+}
